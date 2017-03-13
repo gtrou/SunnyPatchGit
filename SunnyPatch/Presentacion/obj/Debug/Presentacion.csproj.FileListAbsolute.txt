@@ -1,0 +1,2 @@
+C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatch\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Presentacion\bin\Debug\Presentacion.exe.config
