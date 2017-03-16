@@ -10,6 +10,6 @@ namespace Contratos
     public interface IMantenimientoUsuario
     {
         bool AutenticarUsuario(string nombre, string contraseña);
-        Usuario ObtenerUsuario(string nombreUser);
+        //Usuario ObtenerUsuario(string nombreUser);
     }
 }

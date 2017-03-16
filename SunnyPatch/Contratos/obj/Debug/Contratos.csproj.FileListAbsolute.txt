@@ -5,3 +5,5 @@ C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Cont
 C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Contratos\obj\Debug\Contratos.csprojResolveAssemblyReference.cache
 C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Contratos\obj\Debug\Contratos.dll
 C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Contratos\obj\Debug\Contratos.pdb
+C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Contratos\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Contratos\bin\Debug\Newtonsoft.Json.xml

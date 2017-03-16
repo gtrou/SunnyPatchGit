@@ -20,6 +20,7 @@ namespace Presentacion
         public Logueo()
         {
             InitializeComponent();
+            mantenimientoUsuario = new MantenimientoUsuario();
         }
 
         private void btnAceptarLogueo_Click(object sender, EventArgs e)
@@ -32,8 +33,7 @@ namespace Presentacion
             {
                 try
                 {
-                    bool autentico = true;
-                        //mantenimientoUsuario.AutenticarUsuario(txtNombreUsuario.Text, txtContraseña.Text);
+                    bool autentico = mantenimientoUsuario.AutenticarUsuario(txtNombreUsuario.Text, txtContraseña.Text);
                     if (autentico)
                     {
                         ComenzarSesionUsuario();

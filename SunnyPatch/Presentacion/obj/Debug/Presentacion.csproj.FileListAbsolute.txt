@@ -16,3 +16,5 @@ C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Pres
 C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Presentacion\bin\Debug\Repositorio.pdb
 C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Presentacion\obj\Debug\Presentacion.AdministracionUsuarios.resources
 C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Presentacion\obj\Debug\Presentacion.MenuPrincipal.resources
+C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Presentacion\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Presentacion\bin\Debug\Newtonsoft.Json.xml

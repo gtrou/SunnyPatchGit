@@ -5,3 +5,7 @@ C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Logi
 C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
 C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Logica\obj\Debug\Logica.dll
 C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Logica\obj\Debug\Logica.pdb
+C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Logica\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Logica\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Logica\bin\Debug\Contratos.dll
+C:\Users\Gustavo\Documents\ORT\Ing Req\Repositorio\SunnyPatchGit\SunnyPatch\Logica\bin\Debug\Contratos.pdb
